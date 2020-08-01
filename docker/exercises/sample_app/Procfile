@@ -1,0 +1,2 @@
+web:         bundle exec rails s -p $HTTP_SERVER_PORT
+worker:      bundle exec sidekiq
