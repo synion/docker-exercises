@@ -18,7 +18,7 @@ gem 'redis', '~> 4.0', '>= 4.0.2'
 gem 'sidekiq', '~> 5.2', '>= 5.2.1'
 gem 'dalli', '~> 2.7', '>= 2.7.8'
 gem 'memcachier', '~> 0.0.2'
-gem 'nokogiri', '~> 1.8', '>= 1.8.4'
+gem 'nokogiri', '~> 1.10'
 
 group :development, :test do
 end
